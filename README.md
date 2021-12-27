@@ -1,4 +1,4 @@
-# Olá! Seja bem-vindo ao meu perfil!
+# Olá, seja bem-vindo ao meu perfil! Pegue um café e fique à vontade.
 
 - 🔭 Trabalho com desenvolvimento back-end.
 - 🌱 Recentemente tenho estudado JavaScript, tanto no back-end (Node.js) quanto no front-end (framework Angular).
