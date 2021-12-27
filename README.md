@@ -17,6 +17,7 @@
   <img align="center" alt="Gusta-Css" height="90" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Gusta-Js" height="90" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Gusta-Node" height="90" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Gusta-Angjs" height="90" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
 </div>
   
   ##
