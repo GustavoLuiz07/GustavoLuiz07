@@ -1,7 +1,7 @@
 # Olá, seja bem-vindo(a) ao meu perfil! Pegue um café e fique à vontade! 😉💻☕
 
-- 🔭 Trabalho com desenvolvimento back-end.
-- 🌱 Recentemente tenho estudado muito JavaScript, tanto no back-end (Node.js) quanto no front-end (framework Angular).
+- 👔 Trabalho com desenvolvimento full-stack.
+- 🌱 Recentemente tenho estudado muito JavaScript, tanto no back-end (Node.js) quanto no front-end.
 
 <div align="center">
   <a href="https://github.com/GustavoLuiz07">
