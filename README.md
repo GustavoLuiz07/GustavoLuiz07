@@ -19,7 +19,6 @@
   <img align="center" alt="Gusta-Node" height="90" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Gusta-Angjs" height="90" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="right" alt="Link The Legend of Zelda gif" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/b0/87/53/b08753d58f327fe00490bb5cfa7fcf03.gif">
-  <img align="right" alt="Programmer" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
 </div>
   
   ##
