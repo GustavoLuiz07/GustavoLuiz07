@@ -1,6 +1,6 @@
 # Olá, seja bem-vindo(a) ao meu perfil! Pegue um café e fique à vontade! 😉💻☕
 
-- 👔 Trabalho com desenvolvimento full-stack.
+- 👔 Trabalho com desenvolvimento mobile.
 - 🌱 Recentemente, tenho me dedicado bastante ao estudo das linguagens JavaScript e TypeScript.
 
 <div align="center">
@@ -18,7 +18,7 @@
   <img align="center" alt="Gusta-Js" height="90" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Gusta-Node" height="90" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Gusta-Ts" height="90" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Gusta-Angjs" height="90" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Gusta-React" height="90" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="right" alt="Link The Legend of Zelda gif" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/b0/87/53/b08753d58f327fe00490bb5cfa7fcf03.gif">
 </div>
   
